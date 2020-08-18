@@ -1,0 +1,24 @@
+{
+
+    "categories": [{
+
+        "id": 1,
+        "title": "Health"
+    },
+    {
+
+        "id": 2,
+        "title": "Work"
+    },
+    {
+
+        "id": 3,
+        "title": "Hobby"
+    },
+    {
+
+        "id": 4,
+        "title": "Personal"
+    }
+    ]
+}
